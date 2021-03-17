@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+function validar(){
+	let nome = frmContato.nome.value
+	let nome = frmContato.fone.value
+	if (nome === ""){
+	alert('preencha o campo nome')
+	frmContato.nome.focus()
+	return false
+	} else if (fone === ""){
+	alert('preencha o campo nome')
+	frmContato.nome.focus()
+	return false
+	}else{
+
+		documento.forms["frmContato"].submit()
+}
+}

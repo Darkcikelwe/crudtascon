@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Agenda de contatos</title>
+<link rel="icon" href="imagem/iconfider_social-media_whatsapp_994550.png">
+<link rel="stylesheet" href="style.css">    
+</head>
+<h1>Criar novo contato</h1>
+<form name="frmContato" action="">
+
+    <td>
+   <tr> <input type="text" name="nome" placeholder="nome"></tr>
+   </td>
+   <td>
+   <tr> <input type="e-mail" name="email" placeholder="fone"></tr>
+   </td>
+   <td>
+   <tr> <input type="e-mail" name="email" placeholder="email"></tr>
+    </td>
+</form>
+<input type="button" value="adcionar">
+</body>
+</html>

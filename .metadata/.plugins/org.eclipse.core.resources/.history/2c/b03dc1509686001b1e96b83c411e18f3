@@ -1,0 +1,10 @@
+/**
+ * Validação de campos formulario
+ */
+function validarcampos(){
+	
+	alert('preencha o campo nome')
+
+	alert('preencha o campo fone')
+
+}

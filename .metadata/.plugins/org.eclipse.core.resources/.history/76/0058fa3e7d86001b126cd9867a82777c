@@ -1,0 +1,8 @@
+/**
+ * Validação de formulario 
+ BY DARKCIKELWE RIBEIRO
+ */
+
+function validar(){
+	alert('teste')
+}

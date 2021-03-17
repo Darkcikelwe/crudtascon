@@ -1,0 +1,20 @@
+/**
+ * Validação de campos formulario
+ */
+function validarcampos(){
+	//let nome = frmContato.nome.value
+	//let nome = frmContato.fone.value
+	//let nome = frmContato.email.value
+	//if (nome === ""){
+	alert('preencha o campo nome')
+	//frmContato.nome.focus()
+	//return false
+	//} else if (fone === ""){
+	//alert('preencha o campo fone')
+	//frmContato.nome.focus()
+	//return false
+	//}else{
+
+	//	documento.forms["frmContato"].submit()
+}
+//}
